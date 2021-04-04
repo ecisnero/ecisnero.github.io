@@ -1,10 +1,20 @@
-## Erik's GitHub Page ##
+# Erik's GitHub Page #
 
-#Heading
-##SubHeading
+## About me
+### Proficiencies
+**Programming:**
+- Java
+- C
+- C++
+- MATLAB
 
-**Bold Text**
-*Italicized*
+**Circuit Design:**
+- ORCAD PSpice
+- ModelSim
+- Quartus
+
+### Hobbies
+
 
 Quote
 > Quoted Text
