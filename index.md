@@ -5,16 +5,16 @@
 
 ### Interests:
 1. [Art](/Art.md)
-2. [Video Games]()
+2. [Video Games](/VGames.md)
 3. Cooking
 4. Tinkering
 
 ### Goals:
 - [x] Learn Markdown
-- [] Learn HTML
-- [] Learn Javascript
+- [ ] Learn HTML
+- [ ] Learn Javascript
 
-### Experience
+### Experience:
 **Programming:**
 - Java
 - C
@@ -31,14 +31,10 @@ public static void main(String[] args) {
 - ORCAD PSpice
 - ModelSim
 - Quartus
+- Arduino (Basic)
 
-![Circuit Image](/pictures/test1.png)
+![Circuit Image](/site_images/Circuit.png)
 
 ### Inspiration:
 Motto to live by:
 > Start Early, Start Often
-
-
-SectionLink?
-
-[Relative Link](LINKpath)
