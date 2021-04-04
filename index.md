@@ -4,14 +4,15 @@
 [LinkedIn](https://www.linkedin.com/in/erik-cisneros-arellano-78780b189/)
 
 ### Interests:
-1. Art (Drawing / Painting)
-2. Video Games
-3. 
+1. [Art](/Art.md)
+2. [Video Games]()
+3. Cooking
+4. Tinkering
 
 ### Goals:
--[x] Learn Markdown
--[] Learn HTML
--[] Learn Javascript
+- [x] Learn Markdown
+- [] Learn HTML
+- [] Learn Javascript
 
 ### Experience
 **Programming:**
