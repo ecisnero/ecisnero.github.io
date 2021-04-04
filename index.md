@@ -1,6 +1,8 @@
 # Erik's GitHub Page #
 
 ## About me
+[LinkedIn](https://www.linkedin.com/in/erik-cisneros-arellano-78780b189/)
+
 ### Proficiencies
 **Programming:**
 - Java
@@ -25,16 +27,11 @@ Quote
 Quoted Code Block
 ```
 
-[External Link Title](linkURL)
 
 SectionLink?
 
 [Relative Link](LINKpath)
 
-Ordered List:
-- Item 1
-- Item 2
-- Item 3
 
 Unordered List:
 1. Item 1
