@@ -1,7 +1,11 @@
 # Erik's GitHub Page #
+![Banner](/site_images/banner.jpg)
 
 ## About me
 [LinkedIn](https://www.linkedin.com/in/erik-cisneros-arellano-78780b189/)
+
+#### Mini Project
+[Code.org](https://studio.code.org/projects/applab/nyiF4BtAKMCOqI3x6SmgbOqc1nDrxyNaPMpvoY6infY)
 
 ### Interests:
 1. [Art](/Art.md)
@@ -33,12 +37,14 @@ public static void main(String[] args) {
 - Quartus
 - Arduino (Basic)
 
-![Circuit Image](/site_images/Circuit.png)
+![Circuit Image](/site_images/CircuitDesign.png)
 
 ### Inspiration:
 Words to live by:
 > Start Early, Start Often
-- Every UCSD class
+/- Every UCSD class
+
 
 *Reached the end?*
+
 [Scroll back to top](#eriks-github-page)
