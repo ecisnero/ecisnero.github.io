@@ -36,5 +36,9 @@ public static void main(String[] args) {
 ![Circuit Image](/site_images/Circuit.png)
 
 ### Inspiration:
-Motto to live by:
+Words to live by:
 > Start Early, Start Often
+- Every UCSD class
+
+*Reached the end?*
+[Scroll back to top](#eriks-github-page)
