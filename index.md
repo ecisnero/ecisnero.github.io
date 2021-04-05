@@ -42,7 +42,8 @@ public static void main(String[] args) {
 ### Inspiration:
 Words to live by:
 > Start Early, Start Often
-/- Every UCSD class
+
+\- Every UCSD class
 
 
 *Reached the end?*
