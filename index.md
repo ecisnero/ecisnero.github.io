@@ -1,5 +1,5 @@
 # Erik's GitHub Page #
-![Banner](/site_images/banner.jpg)
+![Banner](/site_images/Banner.jpg)
 
 ## About me
 [LinkedIn](https://www.linkedin.com/in/erik-cisneros-arellano-78780b189/)
